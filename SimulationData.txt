@@ -1,0 +1,52 @@
+
+
+-------------
+Params:
+
+Population: 300
+Infection chance: 0.67
+Death chance: 0.41
+Sickness duration: 35
+Reinfection chance: 0.63
+ 
+Results:
+Population: 22
+Days: 410
+Healthy: 0
+Sick: 0
+Recovered: 22
+Dead: 278
+
+-------------
+Params:
+
+Population: 40
+Infection chance: 0.01
+Death chance: 0.0
+Sickness duration: 30
+Reinfection chance: 0.0
+ 
+Results:
+Population: 40
+Days: 31
+Healthy: 39
+Sick: 0
+Recovered: 1
+Dead: 0
+
+-------------
+Params:
+
+Population: 149
+Infection chance: 0.1
+Death chance: 0.09
+Sickness duration: 12
+Reinfection chance: 0.0
+ 
+Results:
+Population: 148
+Days: 28
+Healthy: 143
+Sick: 0
+Recovered: 5
+Dead: 1
